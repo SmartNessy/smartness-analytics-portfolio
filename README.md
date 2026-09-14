@@ -1,9 +1,7 @@
 # Smartness Analytics Portfoliio
 **Transforming enterprise data into actionable insights through Business Intelligence and AI.**
 
-This portfolio demonstrates the design and development of modern Buisness Intelligence, Data Analytics, and AI solutions. 
-
-SmartNess is my personal brand inspired by the my name Vanessa and my passion to work smarter, stay curious, and keep learning. 
+This portfolio demonstrates the design and development of modern Buisness Intelligence, Data Analytics, and AI solutions. SmartNess is my personal brand inspired by the my name Vanessa and my passion to work smarter, stay curious, and keep learning. 
 
 ## Portfolio Objectives
 
